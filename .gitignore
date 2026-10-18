@@ -1,2 +1,4 @@
 index-src.html
 build-secure.ps1
+serve.ps1
+.claude/
